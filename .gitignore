@@ -34,6 +34,7 @@ htmlcov/
 
 # Logging
 game_state.jsonl
+game_events.jsonl
 
 # Text editors
 .zed/
